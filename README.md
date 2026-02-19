@@ -26,4 +26,4 @@ Applies a methodical, evidence-driven testing approach with emphasis on document
 
 Professional Presence  
 LinkedIn  
-https://www.linkedin.com/in/rajendra-prasad-infosec
+linkedin.com/in/rajendra-prasad-infosec
